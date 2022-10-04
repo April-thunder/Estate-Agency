@@ -1,7 +1,6 @@
 
 # The simple web page for Estate Agency
 
-The page was made as exercise for layout and Javascript skills
 
 ## Technologies used
 
