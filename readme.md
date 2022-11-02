@@ -1,7 +1,6 @@
 
 # The simple web page for Estate Agency
 
-The page was made as exercise for layout and Javascript skills
 
 ## Technologies used
 
@@ -22,7 +21,7 @@ The page was made as exercise for layout and Javascript skills
 - Сross browser compatibility
 ## Demo
 
-Click the link to see the page https://april-thunder.github.io/Vue_course_task03/
+Click the link to see the page https: https://april-thunder.github.io/Estate-Agency/
 
 # ToDo
 
