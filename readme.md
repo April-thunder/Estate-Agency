@@ -24,5 +24,9 @@ The page was made as exercise for layout and Javascript skills
 
 Click the link to see the page https://april-thunder.github.io/Vue_course_task03/
 
+# ToDo
+
+Make nice and stylish mobile menu
+
 
 
