@@ -8,7 +8,6 @@
 - HTML
 - CSS (Flexbox Layout)
 - GRID (Popular Properties section)
-- BEM Methodology
 
 ## Libraries used
 
